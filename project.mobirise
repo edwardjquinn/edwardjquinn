@@ -31,7 +31,9 @@
     "siteFonts": [],
     "uniqCompNum": 9,
     "versionPublish": "4.8.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -155,9 +157,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "http://it.psu.edu/",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             },
@@ -190,9 +193,10 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://www.newpig.com/",
                   "alt": "",
-                  "title": ""
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               }
             }
